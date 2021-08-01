@@ -1,5 +1,5 @@
 from pyrogram import Client
-from pytgcalls import PyTgCalls
+from pytgcalls import pytgcalls
 
 from VCsMusicBot.config import API_HASH, API_ID, SESSION_NAME
 from VCsMusicBot.services.queues import queues
